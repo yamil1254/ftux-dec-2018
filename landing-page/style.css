@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 8vh 0 0 0;
+}
+
+nav {
+  background-color: turquoise;
+  height: 9vh;
+  padding: 0 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+}
+
+
+
+
+}
+
+
+nav div {
+  display: inline-block;
+}
+nav div a {
+  text-decoration: none;
+  padding-left: 1.5vw;
+}
+
+h1 {
+  margin: 0;
+  color: gray;
+  font-size: 8vw;
+
+}
+
+h4 {
+  margin: 0;
+}
+
+
+footer {
+  height: 7vh;
+  background-color: lightslategrey;
+  color: khaki;
+  padding-top: 0vh;
+  padding-left: 4vw;
+}
+
+nav div button {
+  padding: 0.6;
+  border-radius: 15px;
+}
+
+/* nav div button:hover {
+  background-color: lime;
+  color: darkblue; */
+}
+#topDiv {
+  background-image:
+  url("https://vignette.wikia.nocookie.net/sigil-city-of-doors-nwn2-persistent-world/images/a/ae/Red_dragon_by_caiomm.jpg/revision/latest?cb=20160422211928");
+  height: 200vh;
+  background-position: top;
+  background-size: cover;
+
+}
+
+#middleDiv img {
+  width: 20vw;
+  /* border: 3px solid black;
+  border-radius: 50%; */
+
+.centerContent {
+display: flex;
+justify-content:center;
+align-items:center;}
+flex-direction: column;
+
+
+}
+/* .centerNavContent {
+  margin-right: 28vw;
+} */
